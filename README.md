@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**sstawiarski/sstawiarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello! 👨‍💻
+My name is Shawn Stawiarski and I'm a software engineer from Pittsburgh, PA. I recently graduated from Arizona State University with a BS in Software Engineering.
+#### 🖥 Technologies
+- Java ☕
+- React
+- Next.js
+- SQL
+- JavaScript / TypeScript
+- Node.js
+#### 🔗 Links
+- [LinkedIn](https://www.linkedin.com/in/shawn-stawiarski-898525123)
+- [Personal website](https://shawnstawiarski.com)
+#### ☎️ Contact
+- There is an email contact form on my [portfolio](https://shawnstawiarski.com) website
